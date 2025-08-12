@@ -1,0 +1,7 @@
+{
+  "W-E": ["CPU Temp"],
+  "TI": ["CPU Temp", "GPU Temp"],
+  "TVLAB": ["RAM Uso", "CPU Uso"],
+  "Portaria": ["CPU Temp", "CPU Uso"],
+  "AGILENT": ["Disco Principal Uso"]
+}

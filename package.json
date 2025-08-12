@@ -1,0 +1,19 @@
+{
+  "name": "10kkview-api",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "start",
+    "start": "node app.js"
+  },
+  "author": "10kk",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10",
+    "nodemailer": "^6.10.0"
+  }
+}

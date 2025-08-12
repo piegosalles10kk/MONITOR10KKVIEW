@@ -1,0 +1,3842 @@
+[
+  {
+    "maquina": "Portaria",
+    "ocorrencia": {
+      "CPU Temp": "64.00°C"
+    },
+    "horario": "2025-06-28T07:56:00"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "RAM Uso": "81.30%"
+    },
+    "horario": "2025-06-28T20:56:00"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Offline desde": "2025-06-28 17:34:57"
+    },
+    "horario": "2025-06-28T20:56:00"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "RAM Uso": "80.30%"
+    },
+    "horario": "2025-06-28T18:56:00"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "2025-06-27 20:57:44"
+    },
+    "horario": "2025-06-27T22:56:00"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Offline desde": "2025-06-27 18:40:08"
+    },
+    "horario": "2025-06-27T21:56:00"
+  },
+  {
+    "maquina": "W-E",
+    "ocorrencia": {
+      "CPU Temp": "67.00°C"
+    },
+    "horario": "2025-06-30T11:56:00"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "RAM Uso": "88.70%",
+      "Disco Principal Uso": "100.00%"
+    },
+    "horario": "2025-07-01T00:00:00"
+  },
+  {
+    "maquina": "TI",
+    "ocorrencia": {
+      "GPU Temp": "83.00°C"
+    },
+    "horario": "2025-07-01T18:54:26.890Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "RAM Uso": "80.70%"
+    },
+    "horario": "2025-07-02T01:54:26.963Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "RAM Uso": "80.30%"
+    },
+    "horario": "2025-07-02T03:54:29.104Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "RAM Uso": "81.10%"
+    },
+    "horario": "2025-07-02T04:54:27.042Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "RAM Uso": "81.10%"
+    },
+    "horario": "2025-07-02T05:54:29.078Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "RAM Uso": "83.00%"
+    },
+    "horario": "2025-07-02T06:54:27.053Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "RAM Uso": "81.30%"
+    },
+    "horario": "2025-07-02T07:54:27.067Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "CPU Temp": "72.00°C"
+    },
+    "horario": "2025-07-02T08:54:26.680Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "RAM Uso": "81.30%"
+    },
+    "horario": "2025-07-02T08:54:27.151Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "RAM Uso": "81.30%"
+    },
+    "horario": "2025-07-02T09:54:27.081Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "RAM Uso": "81.40%"
+    },
+    "horario": "2025-07-02T10:54:27.095Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "RAM Uso": "80.90%"
+    },
+    "horario": "2025-07-02T12:05:15.809Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "RAM Uso": "81.10%"
+    },
+    "horario": "2025-07-02T12:54:27.932Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "RAM Uso": "80.20%"
+    },
+    "horario": "2025-07-02T13:54:29.658Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "RAM Uso": "80.90%"
+    },
+    "horario": "2025-07-02T14:54:27.075Z"
+  },
+  {
+    "maquina": "TI",
+    "ocorrencia": {
+      "GPU Temp": "83.00°C"
+    },
+    "horario": "2025-07-02T16:54:29.695Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "RAM Uso": "81.30%"
+    },
+    "horario": "2025-07-02T16:54:29.841Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "RAM Uso": "81.20%"
+    },
+    "horario": "2025-07-03T05:54:27.170Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "02/07/2025 17:42:03"
+    },
+    "horario": "2025-07-03T06:54:26.682Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "RAM Uso": "82.00%"
+    },
+    "horario": "2025-07-03T06:54:27.180Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "03/07/2025 06:59:24"
+    },
+    "horario": "2025-07-03T11:54:32.186Z"
+  },
+  {
+    "maquina": "TI",
+    "ocorrencia": {
+      "GPU Temp": "83.00°C"
+    },
+    "horario": "2025-07-03T18:54:27.294Z"
+  },
+  {
+    "maquina": "TI",
+    "ocorrencia": {
+      "GPU Temp": "85.00°C"
+    },
+    "horario": "2025-07-03T19:54:29.316Z"
+  },
+  {
+    "maquina": "TI",
+    "ocorrencia": {
+      "GPU Temp": "81.00°C"
+    },
+    "horario": "2025-07-03T20:54:27.194Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "03/07/2025 19:22:03"
+    },
+    "horario": "2025-07-03T23:54:26.740Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "03/07/2025 19:22:03"
+    },
+    "horario": "2025-07-04T00:54:26.783Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "03/07/2025 19:22:03"
+    },
+    "horario": "2025-07-04T01:54:26.760Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "03/07/2025 19:22:03"
+    },
+    "horario": "2025-07-04T02:54:26.770Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "03/07/2025 19:22:03"
+    },
+    "horario": "2025-07-04T03:54:26.746Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "03/07/2025 19:22:03"
+    },
+    "horario": "2025-07-04T04:54:26.765Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "03/07/2025 19:22:03"
+    },
+    "horario": "2025-07-04T05:54:26.771Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "03/07/2025 19:22:03"
+    },
+    "horario": "2025-07-04T06:54:26.792Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "03/07/2025 19:22:03"
+    },
+    "horario": "2025-07-04T07:54:26.774Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "03/07/2025 19:22:03"
+    },
+    "horario": "2025-07-04T08:54:26.764Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "03/07/2025 19:22:03"
+    },
+    "horario": "2025-07-04T09:54:26.777Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "03/07/2025 19:22:03"
+    },
+    "horario": "2025-07-04T10:54:26.792Z"
+  },
+  {
+    "maquina": "TI",
+    "ocorrencia": {
+      "GPU Temp": "84.00°C"
+    },
+    "horario": "2025-07-04T12:54:27.786Z"
+  },
+  {
+    "maquina": "TI",
+    "ocorrencia": {
+      "GPU Temp": "81.00°C"
+    },
+    "horario": "2025-07-04T15:54:30.053Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "04/07/2025 12:30:24"
+    },
+    "horario": "2025-07-04T16:54:28.948Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "04/07/2025 15:18:36"
+    },
+    "horario": "2025-07-04T19:25:26.346Z"
+  },
+  {
+    "maquina": "W-E",
+    "ocorrencia": {
+      "CPU Temp": "71.00°C"
+    },
+    "horario": "2025-07-05T01:54:31.337Z"
+  },
+  {
+    "maquina": "W-E",
+    "ocorrencia": {
+      "CPU Temp": "72.00°C"
+    },
+    "horario": "2025-07-05T02:54:35.388Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "04/07/2025 23:50:32"
+    },
+    "horario": "2025-07-05T03:54:29.103Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:33:18"
+    },
+    "horario": "2025-07-05T04:54:26.974Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-05T04:54:31.031Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 01:16:17"
+    },
+    "horario": "2025-07-05T05:54:26.987Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-05T05:54:31.016Z"
+  },
+  {
+    "maquina": "W-E",
+    "ocorrencia": {
+      "CPU Temp": "75.00°C"
+    },
+    "horario": "2025-07-05T05:54:31.401Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 02:00:15"
+    },
+    "horario": "2025-07-05T06:54:31.331Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-05T06:54:35.502Z"
+  },
+  {
+    "maquina": "W-E",
+    "ocorrencia": {
+      "CPU Temp": "74.00°C"
+    },
+    "horario": "2025-07-05T06:54:35.885Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 02:43:06"
+    },
+    "horario": "2025-07-05T07:54:27.043Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-05T07:54:31.106Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 03:26:13"
+    },
+    "horario": "2025-07-05T08:54:28.592Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-05T08:54:31.463Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 04:10:25"
+    },
+    "horario": "2025-07-05T09:54:28.293Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-05T09:54:34.853Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 04:53:27"
+    },
+    "horario": "2025-07-05T10:54:34.275Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-05T10:54:40.367Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 05:36:13"
+    },
+    "horario": "2025-07-05T11:54:28.227Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "RAM Uso": "81.30%"
+    },
+    "horario": "2025-07-05T11:54:29.946Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-05T11:54:31.259Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 06:20:11"
+    },
+    "horario": "2025-07-05T12:54:28.254Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "RAM Uso": "81.40%"
+    },
+    "horario": "2025-07-05T12:54:31.778Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-05T12:54:36.971Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 07:02:37"
+    },
+    "horario": "2025-07-05T13:54:27.514Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-05T13:54:31.601Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 07:46:17"
+    },
+    "horario": "2025-07-05T14:54:28.755Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-05T14:54:31.373Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 08:30:04"
+    },
+    "horario": "2025-07-05T15:54:27.525Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-05T15:54:31.622Z"
+  },
+  {
+    "maquina": "W-E",
+    "ocorrencia": {
+      "CPU Temp": "71.00°C"
+    },
+    "horario": "2025-07-05T15:54:32.047Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 09:12:57"
+    },
+    "horario": "2025-07-05T16:54:28.624Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-05T16:54:31.623Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 09:56:31"
+    },
+    "horario": "2025-07-05T17:54:27.567Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-05T17:54:31.584Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 10:40:27"
+    },
+    "horario": "2025-07-05T18:54:28.619Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-05T18:54:31.726Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 11:23:40"
+    },
+    "horario": "2025-07-05T19:54:28.715Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-05T19:54:31.718Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 12:09:15"
+    },
+    "horario": "2025-07-05T20:54:28.714Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "RAM Uso": "88.60%"
+    },
+    "horario": "2025-07-05T20:54:30.404Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-05T20:54:31.732Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 12:52:16"
+    },
+    "horario": "2025-07-05T21:54:28.685Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-05T21:54:31.790Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 13:36:29"
+    },
+    "horario": "2025-07-05T22:54:28.774Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-05T22:54:31.970Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 14:20:09"
+    },
+    "horario": "2025-07-05T23:54:27.545Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "RAM Uso": "80.90%"
+    },
+    "horario": "2025-07-05T23:54:30.265Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-05T23:54:31.619Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 15:04:26"
+    },
+    "horario": "2025-07-06T00:54:29.777Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "RAM Uso": "80.40%"
+    },
+    "horario": "2025-07-06T00:54:30.963Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-06T00:54:33.946Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 15:48:32"
+    },
+    "horario": "2025-07-06T01:54:27.077Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "RAM Uso": "81.20%"
+    },
+    "horario": "2025-07-06T01:54:28.186Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-06T01:54:31.826Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 16:32:30"
+    },
+    "horario": "2025-07-06T02:54:27.082Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "RAM Uso": "81.50%"
+    },
+    "horario": "2025-07-06T02:54:28.197Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-06T02:54:31.761Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 17:18:35"
+    },
+    "horario": "2025-07-06T03:54:27.074Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-06T03:54:36.549Z"
+  },
+  {
+    "maquina": "W-E",
+    "ocorrencia": {
+      "CPU Temp": "71.00°C"
+    },
+    "horario": "2025-07-06T03:54:37.011Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 18:03:36"
+    },
+    "horario": "2025-07-06T04:54:31.358Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-06T04:54:35.724Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 18:47:56"
+    },
+    "horario": "2025-07-06T05:54:27.222Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-06T05:54:32.154Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 19:32:06"
+    },
+    "horario": "2025-07-06T06:54:27.777Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-06T06:54:32.488Z"
+  },
+  {
+    "maquina": "W-E",
+    "ocorrencia": {
+      "CPU Temp": "71.00°C"
+    },
+    "horario": "2025-07-06T06:54:32.972Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 20:17:00"
+    },
+    "horario": "2025-07-06T07:54:27.091Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-06T07:54:31.984Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 21:01:30"
+    },
+    "horario": "2025-07-06T08:54:27.061Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-06T08:54:31.834Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 21:45:20"
+    },
+    "horario": "2025-07-06T09:54:27.128Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-06T09:54:39.795Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 22:28:28"
+    },
+    "horario": "2025-07-06T10:54:27.158Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-06T10:54:36.808Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 23:12:37"
+    },
+    "horario": "2025-07-06T11:54:31.875Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-06T11:54:37.047Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 23:56:58"
+    },
+    "horario": "2025-07-06T12:54:27.186Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-06T12:54:32.566Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "06/07/2025 00:41:12"
+    },
+    "horario": "2025-07-06T13:54:27.077Z"
+  },
+  {
+    "maquina": "Portaria",
+    "ocorrencia": {
+      "CPU Uso": "84.70%"
+    },
+    "horario": "2025-07-06T13:54:27.417Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-06T13:54:31.714Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "06/07/2025 01:25:53"
+    },
+    "horario": "2025-07-06T14:54:27.139Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-06T14:54:31.804Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "06/07/2025 02:10:15"
+    },
+    "horario": "2025-07-06T15:54:27.147Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-06T15:54:41.782Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "06/07/2025 02:54:14"
+    },
+    "horario": "2025-07-06T16:54:27.190Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-06T16:54:37.270Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "06/07/2025 03:38:53"
+    },
+    "horario": "2025-07-06T17:54:27.171Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-06T17:54:32.123Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "06/07/2025 04:24:23"
+    },
+    "horario": "2025-07-06T18:54:27.268Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-06T18:54:32.189Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "06/07/2025 05:09:18"
+    },
+    "horario": "2025-07-06T19:54:27.126Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-06T19:54:32.398Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "06/07/2025 05:53:18"
+    },
+    "horario": "2025-07-06T20:54:27.200Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-06T20:54:32.495Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "06/07/2025 06:36:34"
+    },
+    "horario": "2025-07-06T21:54:27.208Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-06T21:54:32.506Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "06/07/2025 07:23:39"
+    },
+    "horario": "2025-07-06T22:54:27.213Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-06T22:54:37.292Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "06/07/2025 08:07:44"
+    },
+    "horario": "2025-07-06T23:54:27.283Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "RAM Uso": "81.40%"
+    },
+    "horario": "2025-07-06T23:54:28.550Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-06T23:54:32.663Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "06/07/2025 08:53:21"
+    },
+    "horario": "2025-07-07T00:54:30.368Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-07T00:54:35.322Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "06/07/2025 09:38:04"
+    },
+    "horario": "2025-07-07T01:54:27.163Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-07T01:54:35.971Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "06/07/2025 10:22:35"
+    },
+    "horario": "2025-07-07T02:54:36.930Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-07T02:54:55.455Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "06/07/2025 11:07:53"
+    },
+    "horario": "2025-07-07T03:54:27.346Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-07T03:54:42.031Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "06/07/2025 11:55:48"
+    },
+    "horario": "2025-07-07T04:54:27.268Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-07T04:54:32.392Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "06/07/2025 12:41:00"
+    },
+    "horario": "2025-07-07T05:54:27.260Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-07T05:54:32.447Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "06/07/2025 13:26:37"
+    },
+    "horario": "2025-07-07T06:54:27.208Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-07T06:54:38.169Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "06/07/2025 14:10:29"
+    },
+    "horario": "2025-07-07T07:54:27.150Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-07T07:54:47.828Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "06/07/2025 14:55:55"
+    },
+    "horario": "2025-07-07T08:54:27.319Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-07T08:54:35.887Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "06/07/2025 15:41:07"
+    },
+    "horario": "2025-07-07T09:54:27.375Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-07T09:54:32.362Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "06/07/2025 16:26:34"
+    },
+    "horario": "2025-07-07T10:54:27.311Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "RAM Uso": "81.10%"
+    },
+    "horario": "2025-07-07T10:54:28.920Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-07T10:54:33.004Z"
+  },
+  {
+    "maquina": "W-F",
+    "ocorrencia": {
+      "CPU Temp": "71.00°C",
+      "CPU Uso": "81.10%"
+    },
+    "horario": "2025-07-07T10:54:36.174Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "RAM Uso": "81.10%",
+      "Offline desde": "07/07/2025 07:19:44"
+    },
+    "horario": "2025-07-07T11:54:30.771Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-07T11:54:36.255Z"
+  },
+  {
+    "maquina": "W-F",
+    "ocorrencia": {
+      "CPU Temp": "72.00°C",
+      "CPU Uso": "97.00%"
+    },
+    "horario": "2025-07-07T11:54:37.370Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "RAM Uso": "81.10%",
+      "Offline desde": "07/07/2025 07:19:44"
+    },
+    "horario": "2025-07-07T12:54:35.742Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "05/07/2025 00:22:44"
+    },
+    "horario": "2025-07-07T12:54:38.603Z"
+  },
+  {
+    "maquina": "W-E",
+    "ocorrencia": {
+      "CPU Temp": "71.00°C"
+    },
+    "horario": "2025-07-07T12:54:41.375Z"
+  },
+  {
+    "maquina": "W-F",
+    "ocorrencia": {
+      "CPU Temp": "71.00°C",
+      "CPU Uso": "95.50%"
+    },
+    "horario": "2025-07-07T12:54:42.410Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "RAM Uso": "81.10%",
+      "Offline desde": "07/07/2025 07:19:44"
+    },
+    "horario": "2025-07-07T13:54:29.943Z"
+  },
+  {
+    "maquina": "W-F",
+    "ocorrencia": {
+      "CPU Temp": "71.00°C",
+      "CPU Uso": "100.00%"
+    },
+    "horario": "2025-07-07T13:54:33.715Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "RAM Uso": "81.10%",
+      "Offline desde": "07/07/2025 07:19:44"
+    },
+    "horario": "2025-07-07T14:54:30.350Z"
+  },
+  {
+    "maquina": "W-F",
+    "ocorrencia": {
+      "CPU Temp": "75.00°C",
+      "CPU Uso": "100.00%"
+    },
+    "horario": "2025-07-07T14:54:36.397Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "RAM Uso": "81.10%",
+      "Offline desde": "07/07/2025 07:19:44"
+    },
+    "horario": "2025-07-07T15:54:37.339Z"
+  },
+  {
+    "maquina": "W-F",
+    "ocorrencia": {
+      "CPU Temp": "74.00°C",
+      "CPU Uso": "100.00%"
+    },
+    "horario": "2025-07-07T15:54:57.587Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "RAM Uso": "81.10%",
+      "Offline desde": "07/07/2025 07:19:44"
+    },
+    "horario": "2025-07-07T16:54:30.047Z"
+  },
+  {
+    "maquina": "W-F",
+    "ocorrencia": {
+      "CPU Temp": "74.00°C",
+      "CPU Uso": "100.00%"
+    },
+    "horario": "2025-07-07T16:54:38.431Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "RAM Uso": "81.10%",
+      "Offline desde": "07/07/2025 07:19:44"
+    },
+    "horario": "2025-07-07T17:54:37.346Z"
+  },
+  {
+    "maquina": "W-E",
+    "ocorrencia": {
+      "CPU Temp": "72.00°C"
+    },
+    "horario": "2025-07-07T17:54:42.076Z"
+  },
+  {
+    "maquina": "W-F",
+    "ocorrencia": {
+      "CPU Temp": "72.00°C",
+      "CPU Uso": "98.70%"
+    },
+    "horario": "2025-07-07T17:54:42.717Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "07/07/2025 14:54:12"
+    },
+    "horario": "2025-07-07T18:54:27.220Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "RAM Uso": "81.10%",
+      "Offline desde": "07/07/2025 07:19:44"
+    },
+    "horario": "2025-07-07T18:54:28.885Z"
+  },
+  {
+    "maquina": "W-F",
+    "ocorrencia": {
+      "CPU Temp": "71.00°C",
+      "CPU Uso": "100.00%"
+    },
+    "horario": "2025-07-07T18:54:42.363Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "07/07/2025 19:12:48"
+    },
+    "horario": "2025-07-07T23:54:37.261Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "07/07/2025 19:58:56"
+    },
+    "horario": "2025-07-08T00:54:27.361Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "Offline desde": "07/07/2025 19:55:11"
+    },
+    "horario": "2025-07-08T00:54:30.427Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "07/07/2025 19:58:56"
+    },
+    "horario": "2025-07-08T01:54:27.442Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "Offline desde": "07/07/2025 19:55:11"
+    },
+    "horario": "2025-07-08T01:54:30.112Z"
+  },
+  {
+    "maquina": "W-F",
+    "ocorrencia": {
+      "CPU Temp": "76.00°C",
+      "CPU Uso": "100.00%"
+    },
+    "horario": "2025-07-08T01:54:38.823Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "07/07/2025 20:34:25"
+    },
+    "horario": "2025-07-08T02:54:31.936Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "Offline desde": "07/07/2025 19:55:11"
+    },
+    "horario": "2025-07-08T02:54:33.357Z"
+  },
+  {
+    "maquina": "W-F",
+    "ocorrencia": {
+      "CPU Temp": "71.00°C",
+      "CPU Uso": "100.00%"
+    },
+    "horario": "2025-07-08T02:54:39.192Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "07/07/2025 20:34:25"
+    },
+    "horario": "2025-07-08T03:54:27.264Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "Offline desde": "07/07/2025 19:55:11"
+    },
+    "horario": "2025-07-08T03:54:30.101Z"
+  },
+  {
+    "maquina": "W-F",
+    "ocorrencia": {
+      "CPU Temp": "76.00°C",
+      "CPU Uso": "100.00%"
+    },
+    "horario": "2025-07-08T03:54:46.256Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "07/07/2025 20:34:25"
+    },
+    "horario": "2025-07-08T04:54:27.297Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "Offline desde": "07/07/2025 19:55:11"
+    },
+    "horario": "2025-07-08T04:54:30.393Z"
+  },
+  {
+    "maquina": "W-F",
+    "ocorrencia": {
+      "CPU Temp": "72.00°C",
+      "CPU Uso": "100.00%"
+    },
+    "horario": "2025-07-08T04:54:36.661Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "07/07/2025 20:34:25"
+    },
+    "horario": "2025-07-08T05:54:27.331Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "Offline desde": "07/07/2025 19:55:11"
+    },
+    "horario": "2025-07-08T05:54:32.504Z"
+  },
+  {
+    "maquina": "W-E",
+    "ocorrencia": {
+      "CPU Temp": "78.00°C"
+    },
+    "horario": "2025-07-08T05:54:37.663Z"
+  },
+  {
+    "maquina": "W-F",
+    "ocorrencia": {
+      "CPU Temp": "74.00°C",
+      "CPU Uso": "100.00%"
+    },
+    "horario": "2025-07-08T05:54:38.354Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "07/07/2025 20:34:25"
+    },
+    "horario": "2025-07-08T06:54:27.448Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "Offline desde": "07/07/2025 19:55:11"
+    },
+    "horario": "2025-07-08T06:54:30.608Z"
+  },
+  {
+    "maquina": "W-F",
+    "ocorrencia": {
+      "CPU Uso": "100.00%"
+    },
+    "horario": "2025-07-08T06:54:38.027Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "07/07/2025 20:34:25"
+    },
+    "horario": "2025-07-08T07:54:27.312Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "Offline desde": "07/07/2025 19:55:11"
+    },
+    "horario": "2025-07-08T07:54:35.800Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "07/07/2025 20:34:25"
+    },
+    "horario": "2025-07-08T08:54:37.184Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "Offline desde": "07/07/2025 19:55:11"
+    },
+    "horario": "2025-07-08T08:54:42.164Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "07/07/2025 20:34:25"
+    },
+    "horario": "2025-07-08T09:54:27.689Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "Offline desde": "07/07/2025 19:55:11"
+    },
+    "horario": "2025-07-08T09:54:30.120Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "07/07/2025 20:34:25"
+    },
+    "horario": "2025-07-08T10:54:27.405Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "Offline desde": "07/07/2025 19:55:11"
+    },
+    "horario": "2025-07-08T10:54:32.832Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "07/07/2025 20:34:25"
+    },
+    "horario": "2025-07-08T11:54:27.243Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "Offline desde": "07/07/2025 19:55:11"
+    },
+    "horario": "2025-07-08T11:54:32.676Z"
+  },
+  {
+    "maquina": "W-E",
+    "ocorrencia": {
+      "CPU Temp": "72.00°C"
+    },
+    "horario": "2025-07-08T11:54:38.199Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "Offline desde": "07/07/2025 19:55:11"
+    },
+    "horario": "2025-07-08T12:54:30.719Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "08/07/2025 09:34:14"
+    },
+    "horario": "2025-07-08T13:54:32.332Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "Offline desde": "07/07/2025 19:55:11"
+    },
+    "horario": "2025-07-08T13:54:35.287Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "08/07/2025 09:34:14"
+    },
+    "horario": "2025-07-08T14:54:27.335Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "Offline desde": "07/07/2025 19:55:11"
+    },
+    "horario": "2025-07-08T14:54:28.918Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "08/07/2025 09:34:14"
+    },
+    "horario": "2025-07-08T15:54:27.401Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "Offline desde": "07/07/2025 19:55:11"
+    },
+    "horario": "2025-07-08T15:54:30.551Z"
+  },
+  {
+    "maquina": "TVLAB",
+    "ocorrencia": {
+      "Offline desde": "07/07/2025 19:55:11"
+    },
+    "horario": "2025-07-08T16:54:28.839Z"
+  },
+  {
+    "maquina": "W-F",
+    "ocorrencia": {
+      "CPU Temp": "71.00°C"
+    },
+    "horario": "2025-07-08T17:54:48.518Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "08/07/2025 15:20:05"
+    },
+    "horario": "2025-07-08T19:54:29.731Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "08/07/2025 15:20:05"
+    },
+    "horario": "2025-07-08T20:54:35.525Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "08/07/2025 15:20:05"
+    },
+    "horario": "2025-07-08T21:54:31.435Z"
+  },
+  {
+    "maquina": "W-F",
+    "ocorrencia": {
+      "CPU Temp": "71.00°C"
+    },
+    "horario": "2025-07-08T21:54:55.737Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "08/07/2025 15:20:05"
+    },
+    "horario": "2025-07-08T22:54:29.934Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "08/07/2025 15:20:05"
+    },
+    "horario": "2025-07-08T23:54:39.434Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "08/07/2025 15:20:05"
+    },
+    "horario": "2025-07-09T00:54:30.286Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "08/07/2025 15:20:05"
+    },
+    "horario": "2025-07-09T01:54:30.317Z"
+  },
+  {
+    "maquina": "W-F",
+    "ocorrencia": {
+      "CPU Temp": "72.00°C",
+      "CPU Uso": "91.60%"
+    },
+    "horario": "2025-07-09T01:54:40.392Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "08/07/2025 15:20:05"
+    },
+    "horario": "2025-07-09T02:54:30.383Z"
+  },
+  {
+    "maquina": "W-F",
+    "ocorrencia": {
+      "CPU Temp": "73.00°C",
+      "CPU Uso": "93.80%"
+    },
+    "horario": "2025-07-09T02:54:40.604Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "08/07/2025 15:20:05"
+    },
+    "horario": "2025-07-09T03:54:40.980Z"
+  },
+  {
+    "maquina": "W-F",
+    "ocorrencia": {
+      "CPU Temp": "75.00°C",
+      "CPU Uso": "94.60%"
+    },
+    "horario": "2025-07-09T03:55:01.348Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "08/07/2025 15:20:05"
+    },
+    "horario": "2025-07-09T04:54:30.528Z"
+  },
+  {
+    "maquina": "W-F",
+    "ocorrencia": {
+      "CPU Temp": "75.00°C",
+      "CPU Uso": "93.70%"
+    },
+    "horario": "2025-07-09T04:54:40.752Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "08/07/2025 15:20:05"
+    },
+    "horario": "2025-07-09T05:54:39.867Z"
+  },
+  {
+    "maquina": "W-F",
+    "ocorrencia": {
+      "CPU Temp": "74.00°C",
+      "CPU Uso": "100.00%"
+    },
+    "horario": "2025-07-09T05:54:51.226Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "08/07/2025 15:20:05"
+    },
+    "horario": "2025-07-09T06:54:30.387Z"
+  },
+  {
+    "maquina": "W-F",
+    "ocorrencia": {
+      "CPU Temp": "72.00°C",
+      "CPU Uso": "100.00%"
+    },
+    "horario": "2025-07-09T06:54:46.542Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "08/07/2025 15:20:05"
+    },
+    "horario": "2025-07-09T07:54:30.481Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "CPU Temp": "71.00°C"
+    },
+    "horario": "2025-07-09T08:54:29.636Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "08/07/2025 15:20:05"
+    },
+    "horario": "2025-07-09T08:54:30.258Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "08/07/2025 15:20:05"
+    },
+    "horario": "2025-07-09T09:54:40.539Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "08/07/2025 15:20:05"
+    },
+    "horario": "2025-07-09T10:54:30.377Z"
+  },
+  {
+    "maquina": "W-E",
+    "ocorrencia": {
+      "CPU Temp": "71.00°C"
+    },
+    "horario": "2025-07-09T10:54:49.321Z"
+  },
+  {
+    "maquina": "W-F",
+    "ocorrencia": {
+      "CPU Temp": "74.00°C",
+      "CPU Uso": "100.00%"
+    },
+    "horario": "2025-07-09T10:54:51.087Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "08/07/2025 15:20:05"
+    },
+    "horario": "2025-07-09T11:54:30.812Z"
+  },
+  {
+    "maquina": "W-F",
+    "ocorrencia": {
+      "CPU Temp": "72.00°C",
+      "CPU Uso": "100.00%"
+    },
+    "horario": "2025-07-09T11:54:50.257Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "08/07/2025 15:20:05"
+    },
+    "horario": "2025-07-09T12:54:30.457Z"
+  },
+  {
+    "maquina": "W-F",
+    "ocorrencia": {
+      "CPU Temp": "72.00°C",
+      "CPU Uso": "100.00%"
+    },
+    "horario": "2025-07-09T12:54:51.125Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "08/07/2025 15:20:05"
+    },
+    "horario": "2025-07-09T13:54:30.638Z"
+  },
+  {
+    "maquina": "W-E",
+    "ocorrencia": {
+      "CPU Temp": "71.00°C"
+    },
+    "horario": "2025-07-09T13:54:45.031Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "08/07/2025 15:20:05"
+    },
+    "horario": "2025-07-09T14:54:30.683Z"
+  },
+  {
+    "maquina": "W-F",
+    "ocorrencia": {
+      "CPU Temp": "73.00°C",
+      "CPU Uso": "100.00%"
+    },
+    "horario": "2025-07-09T14:54:45.376Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "08/07/2025 15:20:05"
+    },
+    "horario": "2025-07-09T15:54:30.663Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "08/07/2025 15:20:05"
+    },
+    "horario": "2025-07-09T16:54:30.451Z"
+  },
+  {
+    "maquina": "TI",
+    "ocorrencia": {
+      "GPU Uso": "97.00%"
+    },
+    "horario": "2025-07-09T16:54:35.824Z"
+  },
+  {
+    "maquina": "W-E",
+    "ocorrencia": {
+      "CPU Temp": "71.00°C"
+    },
+    "horario": "2025-07-09T16:54:41.741Z"
+  },
+  {
+    "maquina": "W-F",
+    "ocorrencia": {
+      "CPU Temp": "75.00°C",
+      "CPU Uso": "100.00%"
+    },
+    "horario": "2025-07-09T16:54:45.273Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "08/07/2025 15:20:05"
+    },
+    "horario": "2025-07-09T17:54:30.632Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "08/07/2025 15:20:05"
+    },
+    "horario": "2025-07-09T18:54:40.094Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "08/07/2025 15:20:05"
+    },
+    "horario": "2025-07-09T19:54:30.808Z"
+  },
+  {
+    "maquina": "W-F",
+    "ocorrencia": {
+      "Offline desde": "09/07/2025 15:05:41"
+    },
+    "horario": "2025-07-09T19:54:45.338Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "08/07/2025 15:20:05"
+    },
+    "horario": "2025-07-09T20:54:30.465Z"
+  },
+  {
+    "maquina": "W-F",
+    "ocorrencia": {
+      "Offline desde": "09/07/2025 15:05:41"
+    },
+    "horario": "2025-07-09T20:54:42.254Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "08/07/2025 15:20:05"
+    },
+    "horario": "2025-07-09T21:54:30.250Z"
+  },
+  {
+    "maquina": "W-E",
+    "ocorrencia": {
+      "CPU Temp": "71.00°C"
+    },
+    "horario": "2025-07-09T21:54:53.813Z"
+  },
+  {
+    "maquina": "W-F",
+    "ocorrencia": {
+      "Offline desde": "09/07/2025 15:05:41"
+    },
+    "horario": "2025-07-09T21:54:56.241Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "08/07/2025 15:20:05"
+    },
+    "horario": "2025-07-09T22:54:30.327Z"
+  },
+  {
+    "maquina": "W-F",
+    "ocorrencia": {
+      "Offline desde": "09/07/2025 15:05:41"
+    },
+    "horario": "2025-07-09T22:55:10.680Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "08/07/2025 15:20:05"
+    },
+    "horario": "2025-07-09T23:54:30.951Z"
+  },
+  {
+    "maquina": "W-F",
+    "ocorrencia": {
+      "Offline desde": "09/07/2025 15:05:41"
+    },
+    "horario": "2025-07-09T23:54:51.067Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "08/07/2025 15:20:05"
+    },
+    "horario": "2025-07-10T00:54:30.400Z"
+  },
+  {
+    "maquina": "W-F",
+    "ocorrencia": {
+      "Offline desde": "09/07/2025 15:05:41"
+    },
+    "horario": "2025-07-10T00:54:56.341Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "08/07/2025 15:20:05"
+    },
+    "horario": "2025-07-10T01:54:30.219Z"
+  },
+  {
+    "maquina": "W-F",
+    "ocorrencia": {
+      "Offline desde": "09/07/2025 15:05:41"
+    },
+    "horario": "2025-07-10T01:54:42.022Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "08/07/2025 15:20:05"
+    },
+    "horario": "2025-07-10T02:54:30.223Z"
+  },
+  {
+    "maquina": "W-F",
+    "ocorrencia": {
+      "Offline desde": "09/07/2025 15:05:41"
+    },
+    "horario": "2025-07-10T02:54:51.993Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "08/07/2025 15:20:05"
+    },
+    "horario": "2025-07-10T03:54:30.518Z"
+  },
+  {
+    "maquina": "W-F",
+    "ocorrencia": {
+      "Offline desde": "09/07/2025 15:05:41"
+    },
+    "horario": "2025-07-10T03:54:56.922Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "08/07/2025 15:20:05"
+    },
+    "horario": "2025-07-10T04:54:30.874Z"
+  },
+  {
+    "maquina": "W-F",
+    "ocorrencia": {
+      "Offline desde": "09/07/2025 15:05:41"
+    },
+    "horario": "2025-07-10T04:54:55.761Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "08/07/2025 15:20:05"
+    },
+    "horario": "2025-07-10T05:54:30.499Z"
+  },
+  {
+    "maquina": "W-F",
+    "ocorrencia": {
+      "Offline desde": "09/07/2025 15:05:41"
+    },
+    "horario": "2025-07-10T05:54:52.004Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "08/07/2025 15:20:05"
+    },
+    "horario": "2025-07-10T06:54:30.632Z"
+  },
+  {
+    "maquina": "W-F",
+    "ocorrencia": {
+      "Offline desde": "09/07/2025 15:05:41"
+    },
+    "horario": "2025-07-10T06:54:45.552Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "08/07/2025 15:20:05"
+    },
+    "horario": "2025-07-10T07:54:30.741Z"
+  },
+  {
+    "maquina": "W-F",
+    "ocorrencia": {
+      "Offline desde": "09/07/2025 15:05:41"
+    },
+    "horario": "2025-07-10T07:54:50.798Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "90.30%"
+    },
+    "horario": "2025-07-10T08:54:30.151Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "08/07/2025 15:20:05"
+    },
+    "horario": "2025-07-10T08:54:30.437Z"
+  },
+  {
+    "maquina": "W-F",
+    "ocorrencia": {
+      "Offline desde": "09/07/2025 15:05:41"
+    },
+    "horario": "2025-07-10T08:54:45.494Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "90.40%"
+    },
+    "horario": "2025-07-10T09:54:30.681Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "08/07/2025 15:20:05"
+    },
+    "horario": "2025-07-10T09:54:30.938Z"
+  },
+  {
+    "maquina": "W-E",
+    "ocorrencia": {
+      "CPU Temp": "71.00°C"
+    },
+    "horario": "2025-07-10T09:54:41.960Z"
+  },
+  {
+    "maquina": "W-F",
+    "ocorrencia": {
+      "Offline desde": "09/07/2025 15:05:41"
+    },
+    "horario": "2025-07-10T09:54:45.583Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "90.40%"
+    },
+    "horario": "2025-07-10T10:54:30.473Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "08/07/2025 15:20:05"
+    },
+    "horario": "2025-07-10T10:54:30.958Z"
+  },
+  {
+    "maquina": "W-F",
+    "ocorrencia": {
+      "Offline desde": "09/07/2025 15:05:41"
+    },
+    "horario": "2025-07-10T10:54:45.267Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "90.50%"
+    },
+    "horario": "2025-07-10T11:54:29.474Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "08/07/2025 15:20:05"
+    },
+    "horario": "2025-07-10T11:54:30.434Z"
+  },
+  {
+    "maquina": "W-F",
+    "ocorrencia": {
+      "Offline desde": "09/07/2025 15:05:41"
+    },
+    "horario": "2025-07-10T11:54:45.341Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "90.60%"
+    },
+    "horario": "2025-07-10T12:54:27.160Z"
+  },
+  {
+    "maquina": "W-F",
+    "ocorrencia": {
+      "Offline desde": "09/07/2025 15:05:41"
+    },
+    "horario": "2025-07-10T12:54:36.272Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "90.70%"
+    },
+    "horario": "2025-07-10T13:54:27.254Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "90.60%"
+    },
+    "horario": "2025-07-10T14:54:27.146Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "90.70%"
+    },
+    "horario": "2025-07-10T15:54:27.184Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "90.80%"
+    },
+    "horario": "2025-07-10T16:54:27.166Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "90.90%"
+    },
+    "horario": "2025-07-10T17:54:27.625Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "90.90%"
+    },
+    "horario": "2025-07-10T18:54:27.356Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "91.00%"
+    },
+    "horario": "2025-07-10T19:54:27.504Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "10/07/2025 15:27:25"
+    },
+    "horario": "2025-07-10T19:54:30.000Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "91.10%"
+    },
+    "horario": "2025-07-10T20:54:27.937Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "10/07/2025 16:24:54"
+    },
+    "horario": "2025-07-10T20:54:30.332Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "91.20%"
+    },
+    "horario": "2025-07-10T21:54:27.300Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "10/07/2025 16:39:54"
+    },
+    "horario": "2025-07-10T21:54:29.979Z"
+  },
+  {
+    "maquina": "W-E",
+    "ocorrencia": {
+      "CPU Temp": "77.00°C"
+    },
+    "horario": "2025-07-10T21:54:56.514Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "91.30%"
+    },
+    "horario": "2025-07-10T22:54:27.473Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "10/07/2025 16:39:54"
+    },
+    "horario": "2025-07-10T22:54:30.498Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "91.40%"
+    },
+    "horario": "2025-07-10T23:54:27.210Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "10/07/2025 16:39:54"
+    },
+    "horario": "2025-07-10T23:54:27.591Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "91.50%"
+    },
+    "horario": "2025-07-11T00:54:27.409Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "10/07/2025 16:39:54"
+    },
+    "horario": "2025-07-11T00:54:30.568Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "91.60%"
+    },
+    "horario": "2025-07-11T01:54:27.352Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "10/07/2025 16:39:54"
+    },
+    "horario": "2025-07-11T01:54:29.977Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "91.70%"
+    },
+    "horario": "2025-07-11T02:54:27.454Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "10/07/2025 16:39:54"
+    },
+    "horario": "2025-07-11T02:54:29.412Z"
+  },
+  {
+    "maquina": "W-E",
+    "ocorrencia": {
+      "CPU Temp": "71.00°C"
+    },
+    "horario": "2025-07-11T02:54:51.280Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "91.70%"
+    },
+    "horario": "2025-07-11T03:54:27.471Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "10/07/2025 16:39:54"
+    },
+    "horario": "2025-07-11T03:54:29.995Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "91.80%"
+    },
+    "horario": "2025-07-11T04:54:27.592Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "10/07/2025 16:39:54"
+    },
+    "horario": "2025-07-11T04:54:29.924Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "90.80%"
+    },
+    "horario": "2025-07-11T05:54:31.253Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "10/07/2025 16:39:54"
+    },
+    "horario": "2025-07-11T05:54:31.961Z"
+  },
+  {
+    "maquina": "W-E",
+    "ocorrencia": {
+      "CPU Temp": "78.00°C"
+    },
+    "horario": "2025-07-11T05:55:02.175Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "90.80%"
+    },
+    "horario": "2025-07-11T06:54:27.341Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "10/07/2025 16:39:54"
+    },
+    "horario": "2025-07-11T06:54:29.910Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "90.90%"
+    },
+    "horario": "2025-07-11T07:54:41.962Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "10/07/2025 16:39:54"
+    },
+    "horario": "2025-07-11T07:54:42.265Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "91.00%"
+    },
+    "horario": "2025-07-11T08:54:27.479Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "10/07/2025 16:39:54"
+    },
+    "horario": "2025-07-11T08:54:29.950Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "91.10%"
+    },
+    "horario": "2025-07-11T09:54:27.363Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "10/07/2025 16:39:54"
+    },
+    "horario": "2025-07-11T09:54:30.268Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "91.20%"
+    },
+    "horario": "2025-07-11T10:54:27.467Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "10/07/2025 16:39:54"
+    },
+    "horario": "2025-07-11T10:54:30.049Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "91.30%"
+    },
+    "horario": "2025-07-11T11:54:36.382Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "10/07/2025 16:39:54"
+    },
+    "horario": "2025-07-11T11:54:36.676Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "91.40%"
+    },
+    "horario": "2025-07-11T12:54:27.466Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "10/07/2025 16:39:54"
+    },
+    "horario": "2025-07-11T12:54:28.661Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "91.50%"
+    },
+    "horario": "2025-07-11T13:54:45.813Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "10/07/2025 16:39:54"
+    },
+    "horario": "2025-07-11T13:54:46.137Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "91.50%"
+    },
+    "horario": "2025-07-11T14:54:32.609Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "91.60%"
+    },
+    "horario": "2025-07-11T15:54:40.607Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "91.70%"
+    },
+    "horario": "2025-07-11T16:54:27.452Z"
+  },
+  {
+    "maquina": "W-E",
+    "ocorrencia": {
+      "CPU Temp": "78.00°C"
+    },
+    "horario": "2025-07-11T16:55:01.812Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "91.80%"
+    },
+    "horario": "2025-07-11T17:54:27.324Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "91.90%"
+    },
+    "horario": "2025-07-11T18:54:27.317Z"
+  },
+  {
+    "maquina": "W-E",
+    "ocorrencia": {
+      "CPU Temp": "71.00°C"
+    },
+    "horario": "2025-07-11T18:54:54.469Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "91.90%"
+    },
+    "horario": "2025-07-11T19:54:31.593Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "92.00%"
+    },
+    "horario": "2025-07-11T20:54:32.145Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "92.10%"
+    },
+    "horario": "2025-07-11T21:54:27.506Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-11T21:54:27.949Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-11T22:54:37.396Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-11T23:54:37.356Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "92.30%"
+    },
+    "horario": "2025-07-12T00:54:32.077Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-12T00:54:32.095Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "92.40%"
+    },
+    "horario": "2025-07-12T01:54:36.654Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-12T01:54:36.675Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-12T02:54:38.129Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "92.60%"
+    },
+    "horario": "2025-07-12T03:54:27.590Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-12T03:54:27.667Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "92.70%"
+    },
+    "horario": "2025-07-12T04:54:27.513Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-12T04:54:27.551Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-12T05:54:38.310Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "93.40%"
+    },
+    "horario": "2025-07-12T06:54:27.543Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-12T06:54:27.615Z"
+  },
+  {
+    "maquina": "W-E",
+    "ocorrencia": {
+      "CPU Temp": "75.00°C"
+    },
+    "horario": "2025-07-12T06:54:28.904Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "93.50%"
+    },
+    "horario": "2025-07-12T07:54:29.848Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-12T07:54:29.864Z"
+  },
+  {
+    "maquina": "W-E",
+    "ocorrencia": {
+      "CPU Temp": "74.00°C"
+    },
+    "horario": "2025-07-12T07:54:30.426Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "93.50%"
+    },
+    "horario": "2025-07-12T08:54:27.606Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-12T08:54:27.658Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "93.60%"
+    },
+    "horario": "2025-07-12T09:54:32.315Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-12T09:54:32.609Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "93.70%"
+    },
+    "horario": "2025-07-12T10:54:32.168Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-12T10:54:32.201Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "93.80%"
+    },
+    "horario": "2025-07-12T11:54:27.671Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-12T11:54:27.771Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "93.90%"
+    },
+    "horario": "2025-07-12T12:54:34.540Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-12T12:54:34.557Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "93.90%"
+    },
+    "horario": "2025-07-12T13:54:27.634Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-12T13:54:27.780Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "94.00%"
+    },
+    "horario": "2025-07-12T14:54:27.587Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-12T14:54:27.729Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "94.10%"
+    },
+    "horario": "2025-07-12T15:54:27.599Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-12T15:54:27.747Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "94.20%"
+    },
+    "horario": "2025-07-12T16:54:27.607Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-12T16:54:27.623Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "94.30%"
+    },
+    "horario": "2025-07-12T17:54:27.465Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-12T17:54:27.483Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "94.30%"
+    },
+    "horario": "2025-07-12T18:54:38.283Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-12T18:54:38.301Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "94.40%"
+    },
+    "horario": "2025-07-12T19:54:27.668Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-12T19:54:27.685Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "94.50%"
+    },
+    "horario": "2025-07-12T20:54:27.638Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-12T20:54:27.660Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "94.60%"
+    },
+    "horario": "2025-07-12T21:54:33.137Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-12T21:54:33.153Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "CPU Uso": "84.60%"
+    },
+    "horario": "2025-07-12T21:54:34.806Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "94.70%"
+    },
+    "horario": "2025-07-12T22:54:27.638Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-12T22:54:27.654Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "94.70%"
+    },
+    "horario": "2025-07-12T23:54:27.586Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-12T23:54:27.603Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "94.80%"
+    },
+    "horario": "2025-07-13T00:54:27.587Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-13T00:54:27.605Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "CPU Uso": "85.70%"
+    },
+    "horario": "2025-07-13T00:54:30.759Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "94.90%"
+    },
+    "horario": "2025-07-13T01:54:27.741Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-13T01:54:27.763Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "CPU Uso": "91.70%"
+    },
+    "horario": "2025-07-13T01:54:31.604Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "95.00%"
+    },
+    "horario": "2025-07-13T02:54:27.571Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-13T02:54:27.592Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "CPU Uso": "84.70%"
+    },
+    "horario": "2025-07-13T02:54:28.534Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "95.00%"
+    },
+    "horario": "2025-07-13T03:54:27.712Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-13T03:54:27.730Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "CPU Uso": "90.50%"
+    },
+    "horario": "2025-07-13T03:54:30.719Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "95.10%"
+    },
+    "horario": "2025-07-13T04:54:27.776Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-13T04:54:27.801Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "CPU Uso": "93.00%"
+    },
+    "horario": "2025-07-13T04:54:29.757Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "95.40%"
+    },
+    "horario": "2025-07-13T05:54:27.520Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-13T05:54:27.541Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-13T06:54:40.082Z"
+  },
+  {
+    "maquina": "W-E",
+    "ocorrencia": {
+      "CPU Temp": "71.00°C"
+    },
+    "horario": "2025-07-13T06:54:41.470Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "95.50%"
+    },
+    "horario": "2025-07-13T07:54:31.527Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-13T07:54:31.546Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "CPU Uso": "97.90%"
+    },
+    "horario": "2025-07-13T07:54:35.033Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "95.60%"
+    },
+    "horario": "2025-07-13T08:54:32.315Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-13T08:54:32.330Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "95.70%"
+    },
+    "horario": "2025-07-13T09:54:28.215Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-13T09:54:28.236Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "95.80%"
+    },
+    "horario": "2025-07-13T10:54:38.759Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-13T10:54:39.253Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "95.80%"
+    },
+    "horario": "2025-07-13T11:54:27.791Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-13T11:54:27.810Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "95.90%"
+    },
+    "horario": "2025-07-13T12:54:27.509Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-13T12:54:27.527Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "96.00%"
+    },
+    "horario": "2025-07-13T13:54:27.578Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-13T13:54:27.598Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "96.10%"
+    },
+    "horario": "2025-07-13T14:54:36.796Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-13T14:54:36.812Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "96.20%"
+    },
+    "horario": "2025-07-13T15:54:38.781Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-13T15:54:39.244Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-13T16:54:37.899Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "96.30%"
+    },
+    "horario": "2025-07-13T17:54:27.714Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-13T17:54:27.738Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "96.40%"
+    },
+    "horario": "2025-07-13T18:54:27.629Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-13T18:54:27.649Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "96.50%"
+    },
+    "horario": "2025-07-13T19:54:27.572Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-13T19:54:27.590Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "96.60%"
+    },
+    "horario": "2025-07-13T20:54:27.652Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-13T20:54:27.669Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "96.60%"
+    },
+    "horario": "2025-07-13T21:54:27.723Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-13T21:54:27.740Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "96.70%"
+    },
+    "horario": "2025-07-13T22:54:27.646Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-13T22:54:27.663Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "96.80%"
+    },
+    "horario": "2025-07-13T23:54:27.556Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-13T23:54:27.575Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "96.90%"
+    },
+    "horario": "2025-07-14T00:54:27.631Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-14T00:54:27.648Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "96.90%"
+    },
+    "horario": "2025-07-14T01:54:27.821Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-14T01:54:27.838Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "97.00%"
+    },
+    "horario": "2025-07-14T02:54:39.110Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-14T02:54:39.452Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-14T03:54:40.136Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "97.20%"
+    },
+    "horario": "2025-07-14T04:54:27.824Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-14T04:54:27.843Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "97.30%"
+    },
+    "horario": "2025-07-14T05:54:27.709Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-14T05:54:27.726Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "97.30%"
+    },
+    "horario": "2025-07-14T06:54:34.333Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-14T06:54:34.705Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "97.40%"
+    },
+    "horario": "2025-07-14T07:54:27.668Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-14T07:54:27.688Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "97.50%"
+    },
+    "horario": "2025-07-14T08:54:32.091Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-14T08:54:32.108Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "97.60%"
+    },
+    "horario": "2025-07-14T09:54:27.784Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-14T09:54:27.804Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "97.70%"
+    },
+    "horario": "2025-07-14T10:54:34.382Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-14T10:54:34.736Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "97.70%"
+    },
+    "horario": "2025-07-14T11:54:27.822Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "11/07/2025 17:40:05"
+    },
+    "horario": "2025-07-14T11:54:27.845Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "98.20%"
+    },
+    "horario": "2025-07-14T18:04:39.117Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "98.30%"
+    },
+    "horario": "2025-07-14T19:10:22.567Z"
+  },
+  {
+    "maquina": "TI",
+    "ocorrencia": {
+      "GPU Temp": "90.00°C"
+    },
+    "horario": "2025-07-14T19:10:23.233Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "CPU Uso": "100.00%"
+    },
+    "horario": "2025-07-14T19:10:24.320Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "98.90%"
+    },
+    "horario": "2025-07-15T11:37:17.245Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "15/07/2025 05:56:48"
+    },
+    "horario": "2025-07-15T11:37:17.340Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "99.20%"
+    },
+    "horario": "2025-07-15T14:58:46.771Z"
+  },
+  {
+    "maquina": "TI",
+    "ocorrencia": {
+      "GPU Temp": "81.00°C"
+    },
+    "horario": "2025-07-15T14:58:47.157Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "99.30%"
+    },
+    "horario": "2025-07-15T17:05:43.005Z"
+  },
+  {
+    "maquina": "TI",
+    "ocorrencia": {
+      "GPU Temp": "86.00°C"
+    },
+    "horario": "2025-07-15T17:05:47.871Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "99.50%"
+    },
+    "horario": "2025-07-15T19:09:37.400Z"
+  },
+  {
+    "maquina": "TI",
+    "ocorrencia": {
+      "GPU Temp": "84.00°C"
+    },
+    "horario": "2025-07-15T19:09:38.722Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "100.00%"
+    },
+    "horario": "2025-07-16T11:43:44.896Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "100.00%"
+    },
+    "horario": "2025-07-16T12:22:53.945Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "15/07/2025 23:44:12"
+    },
+    "horario": "2025-07-16T12:22:54.050Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "100.00%"
+    },
+    "horario": "2025-07-16T13:32:05.135Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "Disco Principal Uso": "100.00%"
+    },
+    "horario": "2025-07-16T17:16:27.838Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "17/07/2025 07:26:40"
+    },
+    "horario": "2025-07-17T13:07:56.311Z"
+  },
+  {
+    "maquina": "W-E",
+    "ocorrencia": {
+      "Offline desde": "16/07/2025 19:23:41"
+    },
+    "horario": "2025-07-17T13:08:14.936Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "RAM Uso": "83.30%",
+      "Disco Principal Uso": "99.50%"
+    },
+    "horario": "2025-07-17T14:44:21.716Z"
+  },
+  {
+    "maquina": "W-E",
+    "ocorrencia": {
+      "Offline desde": "16/07/2025 19:23:41"
+    },
+    "horario": "2025-07-17T14:44:27.798Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "CPU Temp": "71.00°C",
+      "CPU Uso": "100.00%"
+    },
+    "horario": "2025-07-17T16:54:21.597Z"
+  },
+  {
+    "maquina": "W-E",
+    "ocorrencia": {
+      "Offline desde": "16/07/2025 19:23:41"
+    },
+    "horario": "2025-07-17T16:54:22.157Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "RAM Uso": "88.80%",
+      "Disco Principal Uso": "99.90%"
+    },
+    "horario": "2025-07-18T14:48:10.016Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "CPU Uso": "100.00%"
+    },
+    "horario": "2025-07-18T14:48:12.568Z"
+  },
+  {
+    "maquina": "AGILENT",
+    "ocorrencia": {
+      "RAM Uso": "90.40%",
+      "Disco Principal Uso": "99.90%",
+      "Offline desde": "19/07/2025 01:46:13"
+    },
+    "horario": "2025-07-31T13:02:53.540Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "18/07/2025 19:50:26"
+    },
+    "horario": "2025-07-31T13:02:53.994Z"
+  },
+  {
+    "maquina": "Portaria",
+    "ocorrencia": {
+      "Offline desde": "25/07/2025 01:13:29"
+    },
+    "horario": "2025-07-31T13:02:55.186Z"
+  },
+  {
+    "maquina": "W-A",
+    "ocorrencia": {
+      "Offline desde": "28/07/2025 04:46:01"
+    },
+    "horario": "2025-07-31T13:02:56.880Z"
+  },
+  {
+    "maquina": "W-B",
+    "ocorrencia": {
+      "Offline desde": "28/07/2025 04:52:46"
+    },
+    "horario": "2025-07-31T13:02:57.760Z"
+  },
+  {
+    "maquina": "W-C",
+    "ocorrencia": {
+      "Offline desde": "21/07/2025 14:26:20"
+    },
+    "horario": "2025-07-31T13:02:58.082Z"
+  },
+  {
+    "maquina": "W-E",
+    "ocorrencia": {
+      "Offline desde": "22/07/2025 13:48:29"
+    },
+    "horario": "2025-07-31T13:02:58.615Z"
+  },
+  {
+    "maquina": "W-F",
+    "ocorrencia": {
+      "Offline desde": "18/07/2025 12:11:06"
+    },
+    "horario": "2025-07-31T13:02:59.426Z"
+  },
+  {
+    "maquina": "BI",
+    "ocorrencia": {
+      "Offline desde": "08/08/2025 08:04:19"
+    },
+    "horario": "2025-08-08T12:54:52.504Z"
+  },
+  {
+    "maquina": "TI",
+    "ocorrencia": {
+      "GPU Temp": "92.00°C"
+    },
+    "horario": "2025-08-08T12:54:54.638Z"
+  }
+]
